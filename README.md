@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PPraveen2230
 - 👀 I’m interested in data analytics
-- 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on coding projects
+- 🌱 Budding Data Scientist
+- 💞️ I’m looking to collaborate on Materials related data 
 - 📫 How to reach me ...paulpraveen2230@gmail.com
 
 <!---
